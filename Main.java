@@ -5,6 +5,6 @@ public class Main
     {
         System.out.println("Welcome to Line Comparison Computation Program");
         LineofLength obj=new LineofLength();
-        obj.line();
+        obj.lineUse();
     }
 }
